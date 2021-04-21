@@ -1,2 +1,4 @@
-# KG-SEST2021
-This repo contains coding work from my SEST 2021 conference paper.
+# Ontology Modeling for Decentralized Household Energy Systems
+With the spirit of reproducible research, this repository includes a complete collection of codes required to generate the results and diagrams presented in the paper:
+
+> J. Wu, F. Orlandi, D. O'Sullivan, S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *under review*.
